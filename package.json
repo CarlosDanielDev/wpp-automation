@@ -1,0 +1,23 @@
+{
+  "name": "wpp-automation",
+  "version": "1.0.0",
+  "description": "web wpp automation",
+  "keywords": [
+    "wpp"
+  ],
+  "homepage": "https://github.com/CarlosDanielDev/wpp-automation#readme",
+  "bugs": {
+    "url": "https://github.com/CarlosDanielDev/wpp-automation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosDanielDev/wpp-automation.git"
+  },
+  "license": "MIT",
+  "author": "CarlosDanielDev",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm test"
+  }
+}
